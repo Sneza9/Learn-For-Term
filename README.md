@@ -19,4 +19,5 @@ administracija aplikacije.
 
 # Test podaci 
 Admin login - korisničko ime: sneza password: sneza
+
 User login - korisničko ime: marija89 password: marija89
