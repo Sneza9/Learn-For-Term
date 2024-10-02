@@ -3,7 +3,7 @@ Web aplikacija za online učenje. Omogućava brzo i jednostavno postavljanje ogl
 administracija aplikacije.
 
 ## Tehnologije 
-PHP, JavaScript, HTML, CSS, Apache server, MySQL 
+PHP, JavaScript, HTML, CSS, Apache server, MySQL baza podataka. 
 
 ## Korisnici 
 1. Korisnik gost
