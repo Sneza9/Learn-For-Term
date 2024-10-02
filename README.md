@@ -2,6 +2,9 @@
 Web aplikacija za online učenje. Omogućava brzo i jednostavno postavljanje oglasa privatnih časova, kao i ažuriranje i brisanje istih, registracija/login korisnika i
 administracija aplikacije.
 
+## Tehnologije 
+PHP, JavaScript, HTML, CSS, Apache server, MySQL 
+
 ## Korisnici 
 1. Korisnik gost
 2. Korisnik učenik/profesor
