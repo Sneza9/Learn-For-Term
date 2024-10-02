@@ -1,4 +1,4 @@
-# Learn-For-Term
+# LearnForTerm
 Web aplikacija za online učenje. Omogućava brzo i jednostavno postavljanje oglasa privatnih časova, kao i ažuriranje i brisanje istih, registracija/login korisnika i
 administracija aplikacije.
 
@@ -24,3 +24,6 @@ PHP, JavaScript, HTML, CSS, Apache server, MySQL baza podataka.
 Admin login - korisničko ime: sneza password: sneza
 
 User login - korisničko ime: marija89 password: marija89
+
+# Dodatna dokumentacija 
+Dodatna dokumentacija se nalazi u folderu "Dokumentacija"
