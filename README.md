@@ -26,4 +26,9 @@ Admin login - korisničko ime: sneza password: sneza
 User login - korisničko ime: marija89 password: marija89
 
 # Dodatna dokumentacija 
-Dodatna dokumentacija se nalazi u folderu "Dokumentacija"
+Dodatna dokumentacija se nalazi u folderu "Dokumentacija" 
+
+# Details
+Predmet: Softversko inženjertvo 
+
+Godina: 3
